@@ -11,7 +11,7 @@ Una vez finalizada, el alumno debe subir el enlace a su repositorio "forkeado" e
 
 Recuerde que no debe subir la base de datos al sistema, para ello se encuentra el archivo .gitignore que especifica los archivos y directorios omitidos.
 
----
+-------
 
 ### 1. Completar el archivo base.html.
 En la carpeta de templates/e-commerce/ se encuentra el template "base.html" vacío
